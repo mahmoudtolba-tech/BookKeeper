@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database
+*.db
+data/*.db
+!.gitkeep
+
+# Exports and Backups
+exports/*
+!exports/.gitkeep
+backups/*
+!backups/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/

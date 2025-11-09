@@ -1,0 +1,17 @@
+# BookKeeper Pro - Requirements
+# Modern Book Management System
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Image processing (for CustomTkinter)
+Pillow>=10.0.0
+
+# Database (built-in sqlite3 is used, but we include this for completeness)
+# sqlite3 is part of Python standard library
+
+# Dark title bar (for Windows)
+darkdetect>=0.8.0
+
+# For packaging
+packaging>=23.0
