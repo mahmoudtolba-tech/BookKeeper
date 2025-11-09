@@ -275,9 +275,10 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
+## 👥 Author
 
-- **BookKeeper Team** - *Initial work*
+- **Mahmoud Tolba** – *Solo Developer & Creator*  
+  [@mahmoudtolba-tech](https://github.com/mahmoudtolba-tech)
 
 ## 🙏 Acknowledgments
 
